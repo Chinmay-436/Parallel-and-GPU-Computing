@@ -1,8 +1,8 @@
 # Parallel and GPU Computing (PGC) Lab
 ## Experiment 1: Matrix Multiplication using Sequential, OpenMP, MPI, and CUDA
 
-**Student USN / Roll Number:** `01FE24BCI069`  
-**Repository:** `https://github.com/vinayhiremath440/Parallel-and-GPU-Computing-Lab`
+**Student USN / Roll Number:** `01FE24BCI065`  
+**Repository:** `https://github.com/Chinmay-436/Parallel-and-GPU-Computing.git`
 **Lab Manual Reference:** `docs/Experiment_1_Parallel_Matrix_Multiplication_Lab_Manual_REFERENCE_FORMAT.docx`
 
 ---
